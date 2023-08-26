@@ -5,8 +5,7 @@ Pronouns: He/Him/They/Them
 <!-- Programming Interests -->
 ## 🚀 Programming Interests
 - Python 🐍
-- Java ☕
-- JavaScript 🌐
+- Java ☕(currently learning )
 - HTML/CSS 🎨
 
 <!-- Collaboration -->
