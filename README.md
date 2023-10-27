@@ -32,3 +32,7 @@ I'm enthusiastic about collaborating on exciting projects that align with my pro
 ## 🌟 About Me
 I'm a passionate programmer and technology enthusiast. My journey involves exploring new programming languages, crafting web applications, and sharing knowledge with fellow enthusiasts. Reach out to me if you're keen on discussing coding, tech trends, or anything related to the digital realm!
 
+[![An image of @voidninjaaapanda's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/voidninjaaapanda)](https://holopin.io/@voidninjaaapanda)
+
+
+
